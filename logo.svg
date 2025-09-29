@@ -1,0 +1,18 @@
+<svg width="34" height="34" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="faceAreaRect2_sq">
+   <rect id="svg_1" ry="2" rx="2" height="11" width="18" y="14.58953" x="6.4864"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_8">
+   <circle stroke="null" id="svg_2" fill="#4DB4C0" r="2.57978" cy="7.78399" cx="17"/>
+   <rect stroke="#4DB4C0" id="svg_3" stroke-width="2" fill="none" ry="3" rx="3" height="14.56234" width="25.79784" y="14.23345" x="4.10108"/>
+   <g stroke="null" id="svg_4" fill="#014A51" clip-path="url(#faceAreaRect2_sq)">
+    <circle stroke="null" id="svg_5" r="2.06383" cy="21.48897" cx="12.44281"/>
+    <circle stroke="null" id="svg_6" r="2.06383" cy="21.48897" cx="21.55719"/>
+   </g>
+  </g>
+ </g>
+</svg>
