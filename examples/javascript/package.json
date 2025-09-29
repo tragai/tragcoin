@@ -1,0 +1,16 @@
+{
+  "name": "trag-web3-examples",
+  "version": "1.0.0",
+  "description": "Web3 examples for TRAG Coin token",
+  "main": "trag-web3.js",
+  "scripts": {
+    "start": "node trag-web3.js",
+    "example": "node trag-web3.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.0"
+  },
+  "keywords": ["trag", "web3", "bsc", "token"],
+  "author": "TRAG Coin",
+  "license": "MIT"
+}

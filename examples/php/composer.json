@@ -1,0 +1,19 @@
+{
+    "name": "trag/web3-examples",
+    "description": "Web3 PHP examples for TRAG Coin token",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "sc0vu/web3.php": "^0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Trag\\": "src/"
+        }
+    },
+    "scripts": {
+        "example": "php TragWeb3.php"
+    },
+    "keywords": ["trag", "web3", "php", "bsc", "token"],
+    "license": "MIT"
+}
